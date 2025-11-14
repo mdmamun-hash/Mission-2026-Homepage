@@ -183,7 +183,7 @@ margin-bottom: 18px;
 .app{
     width: 230px;
     height: 472px;
-    margin: auto;
+    margin: 40px 0 0 58px;
     z-index: 1;
 }
 .s1{
@@ -198,21 +198,17 @@ margin-bottom: 18px;
     position: relative;
 }
 .p1{
-top:-510px ;
-left: -30px;
+top:-500px ;
+left: 15px;
 }
 .p2{
-    top: -260px;
-    right: -8px;
+    top: -250px;
+    right: -68px;
 }
 .p3{
     top: -150px;
-    left: -250px;
+    left: -180px;
 }
-
-
-
-
 .build-app-text{
     width: 525px;
 }
