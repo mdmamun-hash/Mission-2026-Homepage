@@ -279,3 +279,32 @@ font-size: 14px;
 font-weight: 400;
 }
 
+.hide{
+    display: none;
+}
+
+@media screen and (max-width:576px) {
+    body{
+        background:  rgba(255, 255, 255, 1);
+    }
+    .hero, main{
+        width: 90%;
+        margin: 0 auto;
+    }
+    .wrapper{
+        width: 100%;
+    }
+    .hero{
+        flex-direction: column;
+        gap: 60px;
+    }
+    .hero-text{
+        width: auto;
+    }
+    .hero-img-container{
+        width: 100%;
+    }
+
+
+    
+}
