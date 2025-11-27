@@ -335,4 +335,18 @@ font-weight: 400;
     .bg4-img{
         display: none;
     }
+
+
+    .build-app{
+        width: 90%;
+        margin: 0 auto 80px;
+    }
+    .build-app-content{
+        flex-direction: column;
+        margin: 0;
+        gap: 60px;
+    }
+    .build-app-text{
+        width: 100%;
+    }
 }
